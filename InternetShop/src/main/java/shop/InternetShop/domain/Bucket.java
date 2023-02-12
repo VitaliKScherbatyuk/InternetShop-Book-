@@ -3,8 +3,6 @@ package shop.InternetShop.domain;
 import java.util.Date;
 import java.util.Objects;
 
-import javax.xml.crypto.Data;
-
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
